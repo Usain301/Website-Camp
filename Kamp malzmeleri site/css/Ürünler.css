@@ -1,0 +1,43 @@
+
+
+.menu{
+    list-style: none;
+    text-align: center;
+    
+
+}
+.menu li{
+    display: inline;
+    font-size:30px;
+    color: chartreuse;
+    
+   
+}
+a:visited {
+    color:rgb(99, 255, 51);
+    text-decoration:none
+
+}
+p{
+    font-size:x-large;
+}
+
+.baslık{
+    color: red;
+    font-size: xx-large;
+}
+
+
+
+body {
+    background-color: #22577E;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+
+}
